@@ -1,0 +1,6 @@
+alibaba 4 coke 1
+wavy 1 wavy 1
+lalal 2 coke 1
+tayyab 5 pepsi 2
+tayyab 5 cocomo 1
+irtazazahid 2 wavy 1

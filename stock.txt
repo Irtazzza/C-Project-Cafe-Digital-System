@@ -1,0 +1,7 @@
+Item Price Quantity TotalPrice
+wavy 10 9 90
+coke 50 16 800
+7up 30 46 1380
+hello 23 0 0
+cocomo 23 1 23
+pepsi 20 10 200

@@ -1,0 +1,1 @@
+while ((ch = _getch()) != '\r')

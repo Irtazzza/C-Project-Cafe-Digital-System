@@ -1,0 +1,5 @@
+wavy 5
+cocomo 20
+cocomo 5
+hello 10
+wavy 10

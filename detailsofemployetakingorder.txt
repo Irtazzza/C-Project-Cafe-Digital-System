@@ -1,0 +1,13 @@
+ali 4 wavy 1 alish y
+khan 3 coke 1 e2 y
+aaa 6 7up 1 e y
+pri 4 hello 1 e2 y
+khan 3 coke 1 e y
+khan 3 coke 1 e2 y
+khan 3 coke 1 e3 y
+khan 3 coke 1 e3 y
+pri 4 hello 1 e3 y
+khan 3 coke 1 e3 y
+khan 3 coke 1 e3 y
+khan 3 coke 1 e3 y
+khan 3 coke 1 e3 y
